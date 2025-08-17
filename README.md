@@ -16,7 +16,7 @@ I combine a strong theoretical background with **hands-on projects**, turning co
 #### 🛠️ Tools & Technologies:
 - **Languages**: `Python` (Advanced), `MATLAB` (Advanced), `C++` (Intermediate), `SQL` (Intermediate)  
 - **Frameworks & Libraries**: PyTorch, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-Learn  
-- **Other**: Git, Jupyter, VSCode, LangChain, OpenGL, Unity, HTML/CSS/JS, Java (OOP), VHDL  
+- **Other**: Git, Jupyter, VSCode, LangChain, OpenGL, Unity, HTML/CSS/JS, Java (OOP)  
 - **Approach**: clean folder structures, reproducible pipelines, user-adjustable parameters, experiment tracking
 
 #### 🧪 Philosophy:
