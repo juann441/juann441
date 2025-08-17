@@ -10,7 +10,7 @@ I combine a strong theoretical background with **hands-on projects**, turning co
 - **Image Processing & Computer Vision**: segmentation, registration, feature tracking, calibration, denoising  
 - **Deep Learning & AI**: CNNs, U-Net, fine-tuning, data augmentation, supervised/unsupervised learning, interpretability  
 - **Medical Imaging**: DICOM handling, tomography, MRI, ultrasound  
-- **Time Series Analysis**: Prophet, ARIMA, forecasting  
+- **Time Series Analysis**: Prophet, SARIMAX, forecasting  
 - **Python Applications**: lightweight, interactive tools with Tkinter
 
 #### 🛠️ Tools & Technologies:
