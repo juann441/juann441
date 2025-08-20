@@ -19,10 +19,4 @@ I combine a strong theoretical background with **hands-on projects**, turning co
 - **Other**: Git, Jupyter, VSCode, LangChain, OpenGL, Unity, HTML/CSS/JS, Java (OOP)  
 - **Approach**: clean folder structures, reproducible pipelines, user-adjustable parameters, experiment tracking
 
-#### 🧪 Philosophy:
-I believe in **bridging the gap** between academic theory and real-world applications.  
-For me, learning is a continuous process — whether through structured courses, online resources, or deep-dives into documentation, I aim to **improve every day**.
-
 ---
-
-Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/juan-r-1b6594233/)!
